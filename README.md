@@ -1,5 +1,5 @@
 # Alfa Bank Patcher
-Скрывает рекламу в приложении Альфа Банк, а так же ряд других параметров.
+Скрывает рекламу в приложении [Альфа Банк](https://alfabank.ru/everyday/online/androidmobileapp/), а так же ряд других параметров.
 
 ### Контролируемый функционал:
 - Различные баннеры с предложениями
@@ -37,7 +37,7 @@
 
 ### Требования:
 - Android 8.0+
-- Установленное приложение Альфа-Банк
+- Установленное приложение [Альфа-Банк](https://alfabank.ru/everyday/online/androidmobileapp/)
 
 ### Обратите внимание:
 - Модульная часть использует рут возможности для завершения процесса Альфа Банка и манипуляции с логами push сообщений.
@@ -49,4 +49,4 @@
 
 
 ## For non-Russian users:
-This is a module for the russian banking application Alfa-Bank, you don't need to use it, target app working only in Russia.
+This is a module for the russian banking application [Alfa-Bank](https://alfabank.ru/everyday/online/androidmobileapp/), you don't need to use it, app working only in Russia. This module has support only for the Russian language.

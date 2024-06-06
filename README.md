@@ -49,6 +49,7 @@
 ### Обратите внимание:
 - Модульная часть использует рут возможности для завершения процесса Альфа Банка и манипуляции с логами push сообщений.
 - Для более эффективной работы push фильтра рекомендуется использовать сторонний фильтр sms сообщений т.к. реализация текущего фильтра работает по принципу "не в сети" для искомый push сообщений, сервер может вам присылать тоже сообщение на зарегистрированный номер через смс.
+- Модуль имеет возможность работать в режиме [LSPatch](https://github.com/LSPosed/LSPatch), требуются некоторые подготовительные процессы, подробнее смотрите в telegram канале.
 
 ## For non-Russian users:
 This is a module for the russian banking application [Alfa-Bank](https://apps.rustore.ru/app/ru.alfabank.mobile.android), you don't need to use it, app working only in Russia. This module has support only for the Russian language.

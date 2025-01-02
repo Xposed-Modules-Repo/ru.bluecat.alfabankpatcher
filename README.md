@@ -34,7 +34,6 @@
 - После авторизации: истории, предложение биометрии
 
 ### Аналитика:
-- AppCenter
 - AppsFlyer
 - Firebase analytics
 - Flurry

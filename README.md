@@ -6,12 +6,13 @@
 [![GitHub Release Date](https://img.shields.io/github/release-date/Xposed-Modules-Repo/ru.bluecat.alfabankpatcher)](https://github.com/Xposed-Modules-Repo/ru.bluecat.alfabankpatcher/releases)
 [![Telegram Group](https://img.shields.io/badge/Telegram-Group-blue.svg?logo=telegram)](https://t.me/lsposed_workshop)
 [![4PDA](https://img.shields.io/badge/4PDA-Topic-blue)](https://4pda.to/forum/index.php?showtopic=603033&view=findpost&p=117766501)
+[![Donate](https://img.shields.io/badge/Donate_Form-blue)](https://pay.cloudtips.ru/p/85f8cf00)
 
 <p>Скрытие рекламы различного формата и управление push уведомлениями в приложении <a href="https://apps.rustore.ru/app/ru.alfabank.mobile.android">Альфа Банк</a></p>
 </div>
 
 ### Общее:
-- Контроль проверок на валидность устройства для AlfaPay и сканера отпечатка включены всегда.
+- Контроль проверок на валидность устройства / VPN для AlfaPay и сканера отпечатка включены всегда.
 
 ### Контролируемый функционал:
 - Различные баннеры с предложениями
@@ -22,7 +23,7 @@
 - Чат. Скрытие предложений в истории push уведомлений
 - Чат. Фильтрация видимости доступных чатов
 - Push. Загрузка конфигурации фильтрации
-- Push. Фильтрация по ключевым словам (белый/чёрный список)
+- Push. Фильтрация по ключевым словам (белый / чёрный список)
 - Push. Логирование отфильтрованных Push сообщений
 
 ### Расположения баннеров:

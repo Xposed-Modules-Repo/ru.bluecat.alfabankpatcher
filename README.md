@@ -43,7 +43,6 @@
 - Flurry
 - MyTracker
 - SnowPlow
-- GROUP-IB
 
 ### Требования:
 - Android 8.0+

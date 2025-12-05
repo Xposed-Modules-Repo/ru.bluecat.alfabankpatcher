@@ -5,7 +5,6 @@
 [![GitHub release](https://img.shields.io/github/v/release/Xposed-Modules-Repo/ru.bluecat.alfabankpatcher)](https://github.com/Xposed-Modules-Repo/ru.bluecat.alfabankpatcher/releases)
 [![GitHub Release Date](https://img.shields.io/github/release-date/Xposed-Modules-Repo/ru.bluecat.alfabankpatcher)](https://github.com/Xposed-Modules-Repo/ru.bluecat.alfabankpatcher/releases)
 [![Telegram Group](https://img.shields.io/badge/Telegram-Group-blue.svg?logo=telegram)](https://t.me/lsposed_workshop)
-[![4PDA](https://img.shields.io/badge/4PDA-Topic-blue)](https://4pda.to/forum/index.php?showtopic=603033&view=findpost&p=117766501)
 [![Donate](https://img.shields.io/badge/Donate_Form-blue)](https://pay.cloudtips.ru/p/85f8cf00)
 
 <p>Скрытие рекламы различного формата и управление push уведомлениями в приложении <a href="https://www.rustore.ru/catalog/app/ru.alfabank.mobile.android">Альфа Банк</a></p>
